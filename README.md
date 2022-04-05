@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kanti
-- 👀 I’m interested in ...
+- 👀 I’m interested in developing cool websites.
 - 🌱 I’m currently studying in Pre-final year student at IIITV persuing b.tech in computer science.
 - 💞️ I’m looking to collaborate on ...
 - 📫 to reach me mail me at ... kantimbunkar@gmail.com
