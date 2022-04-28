@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kanti
-- 👀 I’m Web Developer.
+- 👀 I’m Web and Flutter Developer.
 - 🌱 I’m currently studying in Pre-final year student at IIITV in CSE Branch.
 - 💞️ I’m looking to collaborate on ... web development, data structure etc.
 - 📫 to reach me mail me at ... kantimbunkar@gmail.com
